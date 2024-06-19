@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👨‍💻🚀 Hi there! I'm a relentless computer scientist 👨‍🔬 with a big passion for AI & ML 🤖. I'm currently sharpening my skills at UMass Amherst 🎓 (B.S. in Computer Science & Mathematics, GPA: 3.95, Graduating Dec 2024). 
+
+🔧💻 I'm skilled in Java, Python, JavaScript, and many other technologies. Check out my projects where I use TensorFlow, Keras, Django, and more to solve real-world problems! 🌍
+
+🌟 Driven by the desire to make a meaningful impact, I'm always learning and pushing the boundaries of technology. Dive into my projects and let's innovate together! 🌐✨
+
+📬 Feel free to reach out or explore my work. Let's transform industries and lives, one line of code at a time! 🚀📊
 <!--
 **cyrilbouharb/cyrilbouharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
