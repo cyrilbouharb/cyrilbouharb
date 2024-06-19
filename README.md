@@ -2,7 +2,7 @@
 
 👨‍💻🚀 Hi there! I'm a relentless computer scientist 👨‍🔬 with a big passion for AI & ML 🤖. I'm currently sharpening my skills at UMass Amherst 🎓 (B.S. in Computer Science & Mathematics, GPA: 3.95, Graduating Dec 2024). 
 
-🔧💻 I'm skilled in Java, Python, JavaScript, and many other technologies. Check out my projects where I use TensorFlow, Keras, Django, and more to solve real-world problems! 🌍
+🔧💻 I'm skilled in Java, Python, JavaScript, and many other technologies. Check out my projects where I use Sickit-learn, Keras, Django, Node.js, Next.js and more to solve real-world problems! 🌍
 
 🌟 Driven by the desire to make a meaningful impact, I'm always learning and pushing the boundaries of technology. Dive into my projects and let's innovate together! 🌐✨
 
