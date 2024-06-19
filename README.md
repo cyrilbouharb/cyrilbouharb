@@ -6,7 +6,8 @@
 
 🌟 Driven by the desire to make a meaningful impact, I'm always learning and pushing the boundaries of technology. Dive into my projects and let's innovate together! 🌐✨
 
-📬 Feel free to reach out or explore my work. Let's transform industries and lives, one line of code at a time! 🚀📊
+📬 Feel free to reach out or explore my work. Let's transform industries and lives, one line of code at a time! 🚀📊 
+Check out my interactive resume: [cyrilbouharb.github.io/resume](https://cyrilbouharb.github.io/resume/) 📄✨ Dive into my projects and let's innovate together!
 <!--
 **cyrilbouharb/cyrilbouharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
