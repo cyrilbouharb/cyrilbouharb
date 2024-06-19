@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World & Recruiters 👋
 
 👨‍💻🚀 Hi there! I'm a relentless computer scientist 👨‍🔬 with a big passion for AI & ML 🤖. I'm currently sharpening my skills at UMass Amherst 🎓 (B.S. in Computer Science & Mathematics, GPA: 3.95, Graduating Dec 2024). 
 
