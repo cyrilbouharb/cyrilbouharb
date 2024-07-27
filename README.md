@@ -8,7 +8,9 @@
 
 📬 Feel free to reach out or explore my work. Let's transform industries and lives, one line of code at a time! 🚀📊 
 
- Check out my interactive resume: [cyrilbouharb.github.io/resume](https://cyrilbouharb.github.io/resume/) 📄✨ Dive into my projects and let's innovate together!
+ Check out my interactive resume: [cyrilbouharb.github.io/resume](https://cyrilbouharb.github.io/resume/) 
+ and check out my [Personal Website](https://www.cyrilbouharb.com/)
+ 📄✨ Dive into my projects and let's innovate together!
 <!--
 **cyrilbouharb/cyrilbouharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
